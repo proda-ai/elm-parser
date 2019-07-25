@@ -1,5 +1,7 @@
 # Parser
 
+# Elm 0.19 Parser Api compatible with 0.18, for upgrading to elm 0.19 purposes
+
 Regular expressions are quite confusing and difficult to use. This library provides a coherent alternative that handles more cases and produces clearer code.
 
 The particular goals of this library are:
